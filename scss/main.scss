@@ -1,0 +1,6 @@
+/* node-sass -w scss/ -o dist/css --recursive */
+$primary-color: #444;
+body {
+  background: $primary-color;
+  color: white;
+}

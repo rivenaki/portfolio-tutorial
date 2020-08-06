@@ -1,0 +1,4 @@
+/* node-sass -w scss/ -o dist/css --recursive */
+body {
+  background: #444;
+  color: white; }
